@@ -7,3 +7,5 @@ To setup evironment run the following in terminal
 Run as notebook, running each cell in order.
 
 This assignment shows an understanding of concepts in Spark Data Processing, RAG Document Processing, and LLM API use.
+
+pdf files kept erroring out when attempting to upload.
